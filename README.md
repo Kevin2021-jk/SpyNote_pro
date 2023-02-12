@@ -13,8 +13,13 @@ I am NOT responsible for any demages caused by this software to anyone.
 I do NOT support any malicious use of this software. This is for educational purposes only.
 
 ---
-|[Download]()|[Video]()|[Telegram]()|
-|:------------- |:-------------:|:-------------:|
+|[下载地址]()|[视频演示]()|[电报交流]()|[腾讯QQ]()|
+|:------------- |:-------------:|:-------------:|:-------------:|
+|[Download]()|[Video]()|[Telegram]()|[tencentQQ]()|
+
+# 功能展示
+![20230212134448](https://user-images.githubusercontent.com/62233800/218300310-b57f3dd2-579d-43b7-929b-444aed66dd2d.jpg)
+![20230212134530](https://user-images.githubusercontent.com/62233800/218300311-41ee4ac5-c584-4fe0-b7e5-c051cc7324f5.jpg)
 
 ## 功能介绍
 💠𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
@@ -148,5 +153,3 @@ screen
 Skeleton view or Scan View
 - ✅ Bypass black screen of banks and crypto app
 - ✅Add logo window to copy anything from screen easy
-
-# 界面展示
