@@ -74,7 +74,8 @@ I do NOT support any malicious use of this software. This is for educational pur
 - 🟢 Social Media Hunter
 - 🟢 Stealer Gmail account
 - 🟢 Stealer Facebook account
-- 🟢 Stealer 2FA Google 🟢Authenticator Code
+- 🟢 Stealer 2FA Google 
+- 🟢Authenticator Code
 
 💠 𝗣𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
 - 🟢Checking allowed/not
