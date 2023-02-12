@@ -17,7 +17,6 @@ I do NOT support any malicious use of this software. This is for educational pur
 |:------------- |:-------------:|:-------------:|
 
 ## 功能介绍
-𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
 💠𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
 - 🟢Download/Upload
 - 🟢Secure Delete Options
