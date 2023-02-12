@@ -1,6 +1,4 @@
-# 软件标题
-SpyNote_pro 
-# 简短介绍
+# SpyNote_pro 
 SpyNote_pro修复汉化版，集成环境，无需配置Java。
 # 软件授权
 🔥终身授权🔥
